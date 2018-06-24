@@ -1,5 +1,5 @@
 # Space
-Space shooter 3d games Script
+Space shooter Player Controller Script
 
 using UnityEngine;
 using System.Collections;
